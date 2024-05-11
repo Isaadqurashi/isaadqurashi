@@ -22,6 +22,16 @@ I'm currently pursuing a bachelor's degree in Artificial Intelligence at Ghulam 
 
 <h4> <strong>My Development Environment and Operating System:</strong> </h4>
 <em>Environment and OS details go here</em>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+
+<h4> <strong>Languages I Have Worked With:</strong> </h4>
+
+<em>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 
 </div>
