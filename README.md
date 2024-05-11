@@ -25,7 +25,7 @@ I'm currently pursuing a bachelor's degree in Artificial Intelligence at Ghulam 
 <hr>
 
 <h4> <strong>My Development Environment and Operating System:</strong> </h4>
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
