@@ -3,6 +3,7 @@
 
 
 <hr>
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your_github_username.your_repo_name)](https://github.com/isaadqurashi/isaadqurashi)
 
 ### Hey there, I'm Saad Khurshid Qurashi! 👋
 
