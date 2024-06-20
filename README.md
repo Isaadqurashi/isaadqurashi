@@ -23,7 +23,7 @@ I'm currently pursuing a bachelor's degree in Artificial Intelligence at Ghulam 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25-%2300E676.svg?logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send/?phone=%2B923171258892&text&type=phone_number&app_absent=0)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%25-%231A1B27.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/saadkhurshidqureshi)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/isaadqurashi/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/isaadqurashi)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/isaadqurashi)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-green?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/isaadqurashi)
 
 
