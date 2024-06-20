@@ -19,6 +19,8 @@ I'm currently pursuing a bachelor's degree in Artificial Intelligence at Ghulam 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaadqurashi) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/isaadqurashi)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25-%2300E676.svg?logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send/?phone=%2B923171258892&text&type=phone_number&app_absent=0)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%25-%231A1B27.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/saadkhurshidqureshi)
+
 
 
 
