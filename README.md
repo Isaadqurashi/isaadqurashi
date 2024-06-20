@@ -14,6 +14,7 @@ I'm currently pursuing a bachelor's degree in Artificial Intelligence at Ghulam 
 <hr>
 
 <strong> Connect with Me: </strong> 
+
 [![Email](https://img.shields.io/badge/Email-%25-%23D14836.svg?logo=gmail&logoColor=white)](mailto:saadkhurshidqureshi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaadqurashi) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/isaadqurashi)
