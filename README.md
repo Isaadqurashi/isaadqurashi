@@ -1,45 +1,9 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"> 
 <p align="center">
 </p>
 
 
 <hr>
-name: Update Visitor Count
-
-on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '0 * * * *'
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Increment Visitor Count
-      id: visitor_count
-      run: |
-        response=$(curl -s https://api.countapi.xyz/hit/my_github_repo/visitor_count)
-        count=$(echo $response | jq '.value')
-        echo "::set-output name=count::$count"
-
-    - name: Update README
-      run: |
-        count=${{ steps.visitor_count.outputs.count }}
-        sed -i "s/Visitor count: [0-9]*/Visitor count: $count/" README.md
-
-    - name: Commit changes
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add README.md
-        git commit -m "Update visitor count"
-        git push
-
-
 ### Hey there, I'm Saad Khurshid Qurashi! 👋
 
 I'm currently pursuing a bachelor's degree in Artificial Intelligence at Ghulam Ishaq Khan Institute, one of Pakistan's premier universities for Computer Science and Engineering. My interests lie in Artificial Intelligence, application development, and exploring various operating systems like Windows 10, Windows 11, and Linux. I'm passionate about collaborating with like-minded individuals, sharing learning resources, and showcasing my projects using tools such as Jupyter Notebook, Anaconda, and Google Colab.
