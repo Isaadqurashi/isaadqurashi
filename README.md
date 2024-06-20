@@ -3,7 +3,42 @@
 
 
 <hr>
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your_github_username.your_repo_name)](https://github.com/isaadqurashi/isaadqurashi)
+name: Update Visitor Count
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Increment Visitor Count
+      id: visitor_count
+      run: |
+        response=$(curl -s https://api.countapi.xyz/hit/my_github_repo/visitor_count)
+        count=$(echo $response | jq '.value')
+        echo "::set-output name=count::$count"
+
+    - name: Update README
+      run: |
+        count=${{ steps.visitor_count.outputs.count }}
+        sed -i "s/Visitor count: [0-9]*/Visitor count: $count/" README.md
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md
+        git commit -m "Update visitor count"
+        git push
+
 
 ### Hey there, I'm Saad Khurshid Qurashi! 👋
 
