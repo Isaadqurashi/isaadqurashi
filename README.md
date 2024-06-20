@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="Visitor Count">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=isaadqurashi/isaadqurashi" alt="isaadqurashi">    
 <p align="center">
 </p>
 
