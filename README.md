@@ -8,7 +8,7 @@
 
 ### Hey there, I'm Saad Khurshid Qurashi! 👋
 
-I'm currently pursuing a bachelor's degree in Artificial Intelligence at Ghulam Ishaq Khan Institute, one of Pakistan's premier universities for Computer Science and Engineering. My interests lie in Artificial Intelligence, application development, and exploring various operating systems like Windows 10, Windows 11, and Linux. I'm passionate about collaborating with like-minded individuals, sharing learning resources, and showcasing my projects using tools such as Jupyter Notebook, Anaconda, and Google Colab.
+I'm currently pursuing a bachelor's degree in Artificial Intelligence at Ghulam Ishaq Khan Institute, one of Pakistan's premier universities for Computer Science and Engineering.
 
 
 <div align="center">
