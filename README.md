@@ -25,6 +25,7 @@ I'm currently pursuing a bachelor's degree in Artificial Intelligence at Ghulam 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/PrOfEsS0R/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/isaadqurashi)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-green?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/isaadqurashi)
+[![AtCoder](https://img.shields.io/badge/AtCoder-Profile-blue?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/PrOfEsS0R)
 
 
 
