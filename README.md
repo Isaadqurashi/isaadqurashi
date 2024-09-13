@@ -8,7 +8,7 @@
 
 ### Hey there, I'm Saad Khurshid Qurashi! 👋
 
-I'm currently pursuing a bachelor's degree in Artificial Intelligence at Ghulam Ishaq Khan Institute, one of Pakistan's premier universities for Computer Science and Engineering.
+I'm currently pursuing a bachelor's degree in Artificial Intelligence at Ghulam Ishaq Khan Institute.
 
 
 <div align="center">
