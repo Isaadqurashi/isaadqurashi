@@ -8,7 +8,7 @@
 
 ### Hey there, I'm Saad Khurshid Qurashi! 👋
 
-I'm an Artificial Intelligence enthusiast with a passion for building innovative solutions and cracking complex problems. My journey through Ghulam Ishaq Khan Institute has sharpened my skills in AI, C++, Python, and competitive programming—and now, I’m sharing that adventure with you!
+An Artificial Intelligence enthusiast with a passion for building innovative solutions and cracking complex problems. My journey through Ghulam Ishaq Khan Institute has sharpened my skills in AI, C++, Python, and competitive programming—and now, I’m sharing that adventure with you!
 
 In this space, you'll find my projects, code challenges, and cutting-edge solutions, all crafted with a love for learning and a thirst for knowledge. Join me as I explore the realms of algorithms, machine learning, and AI development. Let's learn, build, and grow together!
 
