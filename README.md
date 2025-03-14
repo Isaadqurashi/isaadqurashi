@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=isaadqurashi/isaadqurashi" alt="isaadqurashi">    
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=isaadqurashi/isaadqurashi" alt="isaadqurashi">    
 
 <p align="center">
 </p>
@@ -42,7 +42,7 @@ Feel free to connect with me. Let's create something cool!
 
 ![isaadqurashi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaadqurashi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-![isaadqurashi's Streak](https://streak-stats.demolab.com?user=isaadqurashi&theme=vue-dark&hide_border=false)
+![isaadqurashi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isaadqurashi&theme=vue-dark&hide_border=false)
 
 <hr>
 
