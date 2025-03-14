@@ -33,18 +33,4 @@ Feel free to connect with me. Let's create something cool!
 
 
 
-<div align="center">
-
-<hr>
-<h5 style="font-size: 16px;"><strong>My GitHub Stats:</strong></h5>
-
-![isaadqurashi's Stats](https://github-readme-stats.vercel.app/api?username=isaadqurashi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
-![isaadqurashi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaadqurashi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
-<hr>
-
-</div>
-
-
 
