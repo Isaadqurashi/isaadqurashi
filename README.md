@@ -39,19 +39,14 @@ Feel free to connect with me. Let's create something cool!
 
 
 
-<hr>
-<h2 align="center">💹 Most Popular Repos 💹</h2>
-<br>
-<p align="center">
-<a href="https://github.com/isaadqurashi/Learn-Js/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isaadqurashi&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
-  
-<a href="https://github.com/isaadqurashi/isaadqurashi/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isaadqurashi&repo=isaadqurashi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+# <div align="center"><strong>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=41&width=800&height=60&lines=Statistics&center=true&vCenter=true&color=DA70D6)](https://git.io/typing-svg)</strong></div>
+    
+[![](https://github-readme-stats.vercel.app/api?username=isaadqurashi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/isaadqurashi)  
+[![](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=isaadqurashi&langs_count=8&layout=compact&theme=radical&hide_border=false)](https://github.com/isaadqurashi)  
+[![](https://github-readme-streak-stats.herokuapp.com/?user=isaadqurashi&theme=radical&hide_border=false)](https://github.com/isaadqurashi)  
 
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <hr>
 
