@@ -35,6 +35,7 @@ Feel free to connect with me. Let's create something cool!
 </div>
 
 
+<hr>
 
 <div align="center">
 
@@ -45,8 +46,6 @@ Feel free to connect with me. Let's create something cool!
 [![](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=isaadqurashi&langs_count=8&layout=compact&theme=radical&hide_border=false)](https://github.com/isaadqurashi)  
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=isaadqurashi&theme=radical&hide_border=false)](https://github.com/isaadqurashi)  
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
