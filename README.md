@@ -1,4 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=isaadqurashi/isaadqurashi" alt="isaadqurashi">    
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <p align="center">
 </p>
@@ -53,8 +54,6 @@ Feel free to connect with me. Let's create something cool!
 
 </div>
 
-
-<hr>
 
 <p align="center">
   <a href="https://www.github.com/isaadqurashi" target="_blank" rel="noreferrer">
