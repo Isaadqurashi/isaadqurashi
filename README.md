@@ -7,7 +7,7 @@
   </a>
 </h1>
    
-### <p align="center"><img src="/images/Developer.gif" alt="developer gif" height="45px"> About Me:</p>
+###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 
 ### Hey there, I'm Saad Khurshid Qurashi! 👋
 
@@ -50,6 +50,7 @@ Feel free to connect with me. Let's create something cool!
 
 </div>
 
+<hr>
 
 <p align="center">
   <a href="https://www.github.com/isaadqurashi" target="_blank" rel="noreferrer">
