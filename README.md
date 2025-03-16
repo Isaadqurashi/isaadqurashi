@@ -1,18 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=isaadqurashi/isaadqurashi" alt="isaadqurashi">    
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
-<p align="center">
-</p>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Saad+Khurshid;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
-
-<hr>
-
+   
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+
 ### Hey there, I'm Saad Khurshid Qurashi! 👋
 
 An Artificial Intelligence enthusiast who loves solving challenging problems and building creative solutions. During my time at Ghulam Ishaq Khan Institute, I've honed my skills in AI, C++, Python, and competitive programming, and now I'm excited to share my journey with you!
