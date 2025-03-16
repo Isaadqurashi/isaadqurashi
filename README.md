@@ -3,9 +3,15 @@
 <p align="center">
 </p>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Saad+Khurshid;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+  </a>
+</h1>
 
 <hr>
 
+###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 ### Hey there, I'm Saad Khurshid Qurashi! 👋
 
 An Artificial Intelligence enthusiast who loves solving challenging problems and building creative solutions. During my time at Ghulam Ishaq Khan Institute, I've honed my skills in AI, C++, Python, and competitive programming, and now I'm excited to share my journey with you!
@@ -22,11 +28,9 @@ Feel free to connect with me. Let's create something cool!
 [![Email](https://img.shields.io/badge/Email-%25-%23D14836.svg?logo=gmail&logoColor=white)](mailto:saadkhurshidqureshi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaadqurashi) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/isaadqurashi)
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25-%2300E676.svg?logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send/?phone=%2B923171258892&text&type=phone_number&app_absent=0)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%25-%231A1B27.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/saadkhurshidqureshi)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/PrOfEsS0R/)
-
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/isaadqurashi)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-green?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/isaadqurashi)
 [![AtCoder](https://img.shields.io/badge/AtCoder-Profile-blue?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/morrtal)
@@ -35,5 +39,26 @@ Feel free to connect with me. Let's create something cool!
 
 
 
+<hr>
+<h2 align="center">💹 Most Popular Repos 💹</h2>
+<br>
+<p align="center">
+<a href="https://github.com/isaadqurashi/Learn-Js/">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isaadqurashi&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+  
+<a href="https://github.com/isaadqurashi/isaadqurashi/">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isaadqurashi&repo=isaadqurashi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+</p>
+
+<hr>
+
+<p align="center">
+  <a href="https://www.github.com/isaadqurashi" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/isaadqurashi?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" />
+  </a>
+</p>
 
 
