@@ -7,7 +7,7 @@
   </a>
 </h1>
    
-###  <img src="/images/Developer.gif"  height="45px">  About Me:
+###  <img src="Developer.gif"  height="45px">  About Me:
 
 ### Hey there, I'm Saad Khurshid Qurashi! 👋
 
