@@ -3,7 +3,9 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello;kiyu+nhe+ho+rahe+parhayi;+center=true&size=30">
+    <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello;kiyu+nhe+ho+rahe+parhayi&size=30">
+</p>
   </a>
 </h1>
    
