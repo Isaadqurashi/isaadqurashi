@@ -34,8 +34,6 @@ Feel free to connect with me!
 
 <div align="center">
 
-# <strong>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=41&width=800&height=60&lines=Statistics&center=true&vCenter=true&color=DA70D6)](https://git.io/typing-svg)</strong>
-
 [![](https://github-readme-stats.vercel.app/api?username=isaadqurashi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/isaadqurashi)  
 
 [![](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=isaadqurashi&langs_count=8&layout=compact&theme=radical&hide_border=false)](https://github.com/isaadqurashi)  
